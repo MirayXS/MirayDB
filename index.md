@@ -1,3 +1,5 @@
+<img width="210" height="210" align="left" alt="Miray" src="https://raw.githubusercontent.com/MirayXS/MirayDB/master/_assets/icons/logo.png" style="max-width:100%;">
+
 ```
 ███╗   ███╗██╗██████╗  █████╗ ██╗   ██╗    ██████╗  █████╗ ████████╗ █████╗ ██████╗  █████╗ ███████╗███████╗
 ████╗ ████║██║██╔══██╗██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝
