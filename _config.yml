@@ -1,2 +1,3 @@
 theme: jekyll-theme-hacker
-site_favicon: /_assets/icons/favicon.ico
+plugins:
+- jekyll-seo-tag
